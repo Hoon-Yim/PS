@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hoon/CLionProjects/PS/main.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+stack
+-
+utility
+-
+
