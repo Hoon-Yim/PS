@@ -11,7 +11,6 @@
 
 class Solution {
 public:
-    // runtime 4 ms speed
 //    bool isValid(std::string s)
 //    {
 //        std::stack<char> st;
@@ -38,7 +37,6 @@ public:
 //        return false;
 //    }
 
-    // runtime 0 ms
     bool isValid(std::string s)
     {
         std::stack<char> st;
